@@ -1,5 +1,5 @@
 # IBM-Data-Analysis--House-sale-price-prediction-using-python
-# House-sale-price-prediction-using-python
+# House-sale-price-prediction-using-python By *HAMZA AYED*
 This project analyzes and predicts housing sale price based on features such as square footage, number of bedrooms, views, locations, etc. It uses the dataset of house sale prices for King County, USA, including home sales between May 2014 and May 2015.
 
 It uses python codes to do data-cleaning, analyse data and create models for price prediction, evaluate and refine models. Major activities covered include:
